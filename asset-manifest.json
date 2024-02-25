@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fitrinurazis.github.io/static/css/main.500f7a5f.css",
+    "main.js": "/fitrinurazis.github.io/static/js/main.176cce93.js",
+    "static/js/787.590cf3bc.chunk.js": "/fitrinurazis.github.io/static/js/787.590cf3bc.chunk.js",
+    "index.html": "/fitrinurazis.github.io/index.html",
+    "main.500f7a5f.css.map": "/fitrinurazis.github.io/static/css/main.500f7a5f.css.map",
+    "main.176cce93.js.map": "/fitrinurazis.github.io/static/js/main.176cce93.js.map",
+    "787.590cf3bc.chunk.js.map": "/fitrinurazis.github.io/static/js/787.590cf3bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.500f7a5f.css",
+    "static/js/main.176cce93.js"
+  ]
+}
